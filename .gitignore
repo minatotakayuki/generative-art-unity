@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Require Unicessing Asset
+*Unicessing*
+
